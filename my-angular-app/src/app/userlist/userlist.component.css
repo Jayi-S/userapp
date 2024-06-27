@@ -1,0 +1,30 @@
+.user-list {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px; 
+  }
+  
+  .user-list h2 {
+    color: #007bff;
+    font-size: 24px; 
+    margin-bottom: 15px; 
+  }
+  
+  .user-list .list-group-item {
+    border-color: #ced4da;
+  }
+  
+  .user-list .list-group-item:hover {
+    background-color: #e9ecef; 
+  }
+  
+  .user-list .user-link {
+    text-decoration: none; 
+    color: #343a40;
+  }
+  
+  .user-list .user-link:hover {
+    text-decoration: underline; }
+  
